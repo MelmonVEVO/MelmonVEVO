@@ -5,7 +5,7 @@ I love rhythm games and roguelikes.<br>
 EN/PT = OK<br>
 日本語すこし話せる。<br>
 
-I mostly work with Python and Java, though I do know C, Kotlin and a bit of Lua.
+I mostly work with Python and Java, though I do know C, Kotlin and a bit of Lua and JavaScript.
 
 https://melmon.dev/<br>
 contact@melmon.dev<br>

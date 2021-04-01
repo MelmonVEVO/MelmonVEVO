@@ -1,11 +1,14 @@
 ![Melmon Logo](https://melmon.dev/imgs/melmonlogo_black.png)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mel-mon" />
+
 ```bash
 Information on Github user "mel-mon" (9332088)
 - Dylan studies computer science.
 - Interests include rhythm games, roguelikes, cooking, reading among others.
 - Languages known are English, Portuguese and Japanese.
 - Works with Python, Java, C and Javascript.
+- El Psy Kongroo
 
 ~ CHIZURU
 ```

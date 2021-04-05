@@ -14,5 +14,5 @@ Information on Github user "mel-mon"
 ```
 
 https://melmon.dev/<br>
-dylan.drescher@gmail.com<br>
+dylan.drescher[at]gmail.com<br>
 Discord: Melmon#3376

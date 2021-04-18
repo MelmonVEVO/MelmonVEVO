@@ -4,11 +4,10 @@
 
 ```bash
 Information on Github user "Dylan // mel-mon"
-- Dylan studies computer science.
+- Studies computer science.
 - Interests include rhythm games, roguelikes, cooking, reading among others.
 - Languages known are English, Portuguese and Japanese.
-- Works with Python, Java and C.
-- El Psy Kongroo
+- Works with Python and Java mostly. Knows C.
 ```
 
 https://melmon.dev/<br>

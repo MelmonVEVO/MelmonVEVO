@@ -1,7 +1,7 @@
 ![Melmon Logo](https://melmon.dev/imgs/melmonlogo_black.png)
 
 ```
-- Studying computer science.
+- I study computer science at the University of Bath.
 - I am interested in rhythm games, roguelikes, cooking, reading among others.
 - I can speak English and Portuguese and I am learning Japanese.
 - Working with Python and Java mostly, though I am familiar C and Haskell.

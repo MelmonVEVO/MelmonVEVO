@@ -1,11 +1,10 @@
 ![Melmon Logo](https://melmon.dev/imgs/melmonlogo_black.png)
 
 ```bash
-Information on Github user "Dylan // mel-mon"
-- Studies computer science.
-- Interests include rhythm games, roguelikes, cooking, reading among others.
-- Languages known are English, Portuguese and Japanese.
-- Works with Python and Java mostly. Knows C.
+- Studying computer science.
+- I am interested in rhythm games, roguelikes, cooking, reading among others.
+- I can speak English and Portuguese and I am learning Japanese.
+- Working with Python and Java mostly, though I am familiar C and Haskell.
 ```
 
 <p align="center">

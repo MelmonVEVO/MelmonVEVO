@@ -1,6 +1,6 @@
 ![Melmon Logo](https://melmon.dev/imgs/melmonlogo_black.png)
 
-```bash
+```
 - Studying computer science.
 - I am interested in rhythm games, roguelikes, cooking, reading among others.
 - I can speak English and Portuguese and I am learning Japanese.

@@ -2,9 +2,9 @@
 
 ```
 - I study computer science at the University of Bath.
-- I am interested in rhythm games, roguelikes, cooking, reading among others.
+- I work with Python and Java mostly, though I am familiar with C, JavaScript and Haskell.
 - I can speak English and Portuguese and I am learning Japanese.
-- Working with Python and Java mostly, though I am familiar C and Haskell.
+- I am interested in rhythm games, roguelikes, cooking, reading among others.
 ```
 
 <p align="center">

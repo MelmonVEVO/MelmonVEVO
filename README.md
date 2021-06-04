@@ -1,4 +1,4 @@
-![Melmon Logo](https://melmon.dev/imgs/melmonlogo_black.png)
+# Hello!
 
 ```
 - I study computer science at the University of Bath.

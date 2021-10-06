@@ -1,8 +1,8 @@
 # Hello!
 
 ```
-- I study computer science at the University of Bath.
-- I work with Python and Java mostly, though I am familiar with C, JavaScript and Haskell.
+- I study computer science at the University of Bath, I am currently on a year placement at Validus Risk Management.
+- I work with Python and Typescript. I do know Java, C and Haskell.
 - I can speak English and Portuguese and I am learning Japanese.
 - I am interested in tabletop and computer games, cooking, reading among others.
 ```

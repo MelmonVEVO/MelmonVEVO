@@ -5,7 +5,7 @@
 
 Hi, I'm Dylan, but I'm also known online as Melmon.
 I am a Br*tish developer currently based in London.
-I study computer science at the University of Bath, I am currently on a year placement at Validus Risk Management.
+I'm studying computer science at the University of Bath. I am currently on a year placement at Validus Risk Management.
 I have an addiction to rhythm games and I am allergic to rounded rectangles.
 ```
 

@@ -1,17 +1,41 @@
-# Hello!
+<h1 align="center">- MELMON -</h1>
 
 ```
-- I study computer science at the University of Bath, I am currently on a year placement at Validus Risk Management.
-- I work with Python and Typescript. I do know Java, C and Haskell.
-- I can speak English and Portuguese and I am learning Japanese.
-- I am interested in tabletop and computer games, cooking, reading among others.
+[melmon@mock-comp ~]$ profile
+
+Hi, I'm Dylan, but I'm also known online as Melmon.
+I am a Br*tish developer currently based in London.
+I study computer science at the University of Bath, I am currently on a year placement at Validus Risk Management.
+I have an addiction to rhythm games and I am allergic to rounded rectangles.
 ```
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mel-mon&count_private=true&show_icons=true&title_color=FF00B4&text_color=FFF&icon_color=FF00B4&bg_color=000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mel-mon&count_private=true&title_color=FF00B4&text_color=FFF&icon_color=FF00B4&bg_color=000" />
-</p>
+<table border="1" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mel-mon&count_private=true&show_icons=true&title_color=FF00B4&text_color=FFF&icon_color=FF00B4&bg_color=000" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mel-mon&count_private=true&title_color=FF00B4&text_color=FFF&icon_color=FF00B4&bg_color=000" />
+    </td>
+  </tr>
+</table>
 
-https://melmon.dev/<br>
-dylan.drescher[at]gmail.com<br>
-Discord: Melmon#3376
+
+
+<span><img src="https://img.shields.io/badge/-Editors-grey?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-IDEA-orange?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-VS%20Code-red?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Vim-orange?style=flat-square" /></span>
+<br />
+<span><img src="https://img.shields.io/badge/-Languages-grey?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Typescript-navy?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-C-blue?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Haskell-navy?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-C%23-blue?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Java-navy?style=flat-square" /></span>
+<br />
+<span><img src="https://img.shields.io/badge/-Find%20me-grey?style=flat-square" /></span>
+<a href="https://melmon.dev/"><img src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square" /></a>
+<a href="mailto:dylan.drescher@gmail.com"><img src="https://img.shields.io/badge/-E--mail-green?style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/dylan-drescher/"><img src="https://img.shields.io/badge/-Linkedin-brightgreen?style=flat-square" /></a>

@@ -1,14 +1,16 @@
 <h1 align="center">- MELMON -</h1>
 
 ```
-[melmon@mock-comp ~]$ profile
-
-Hi, I'm Dylan, but I'm also known online as Melmon.
-I am a British developer currently based in London.
-I'm studying computer science at the University of Bath. I am currently on a year placement at Validus Risk Management.
-I have an addiction to rhythm games and I am allergic to rounded rectangles.
-I don't use social media, so the best way to contact me is through email.
+[melmon@mock-comp ~]$ describe melmon
 ```
+
+Hi, I'm Dylan, but I'm also known online as Melmon. I am a British developer currently based in London.
+
+I'm studying computer science at the University of Bath. I am currently on a placement year at Validus Risk Management.
+
+I have an addiction to rhythm games and roguelikes. I also like reading and clay pigeon shooting.
+
+I don't use social media, so the best way to contact me is through email.
 
 <table border="1" align="center">
   <tr>

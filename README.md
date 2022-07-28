@@ -10,7 +10,7 @@ I'm studying computer science at the University of Bath. I am currently on a pla
 
 I have an addiction to rhythm games and roguelikes. I also like reading, faffing around with Linux and clay pigeon shooting.
 
-I don't use social media, so the best way to contact me is through email (plaintext please).
+I don't use social media, so the best way to contact me is through email (plaintext emails please, I will most likely ignore unsolicited HTML emails).
 
 <table border="1" align="center">
   <tr>

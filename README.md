@@ -2,6 +2,7 @@
 
 ```
 [melmon@mock-comp ~]$ describe melmon
+A twat with too much free time.
 ```
 
 Hi, I'm Dylan, but I'm also known online as Melmon. I am a British developer currently based in London.

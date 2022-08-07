@@ -27,7 +27,7 @@ I don't use social media, so the best way to contact me is through email (plaint
 
 
 <span><img src="https://img.shields.io/badge/-Editors-grey?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-IDEA-orange?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-IntelliJ IDEA-orange?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-VS%20Code-red?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-Vim-orange?style=flat-square" /></span>
 <br />

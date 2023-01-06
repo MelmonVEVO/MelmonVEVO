@@ -1,7 +1,7 @@
 <h1 align="center">- MELMON -</h1>
 
 ```
-[melmon@mock-comp ~]$ describe melmon
+[melmon@wherever ~]$ describe melmon
 
 Hi, I'm Dylan, but I'm also known online as Melmon.
 I am a British developer currently based in Bath.
@@ -10,7 +10,7 @@ I'm studying computer science at the University of Bath.
 I'm writing my dissertation on reinforcement learning applications to the game Rogue.
 
 I have an addiction to rhythm games and roguelikes.
-I also like reading, faffing around with Linux and clay pigeon shooting.
+I also like reading, drawing, faffing around with Linux and clay pigeon shooting.
 
 I don't use social media, so the best way to contact me is through email
 (plaintext emails please!!!).

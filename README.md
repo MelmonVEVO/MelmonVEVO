@@ -4,16 +4,18 @@
 [melmon@wherever ~]$ describe melmon
 
 Hi, I'm Dylan, but I'm also known online as Melmon.
-I am a British developer currently based in Bath.
+I am a British fullstack developer based in London.
 
-I'm studying computer science at the University of Bath.
-I'm writing my dissertation on reinforcement learning applications to the game Rogue.
+I have extensive experience in Python (Django/Flask, TensorFlow) and TypeScript (plus React).
+I also have some experience with C++ and Java.
 
-I have an addiction to rhythm games and roguelikes.
-I also like reading, drawing, faffing around with Linux and clay pigeon shooting.
+I read Computer Science at the University of Bath.
+I wrote my dissertation on reinforcement learning applications to the game Rogue.
 
-I don't use social media, so the best way to contact me is through email
-(plaintext emails please!!!).
+I love rhythm games, traditional roguelikes and SHMUPs.
+I also like reading, gamedev, drawing, faffing around with Linux and clay pigeon shooting.
+
+I don't use social media, so the best way to contact me is through email.
 ```
 
 <!--

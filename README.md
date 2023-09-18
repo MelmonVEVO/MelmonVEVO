@@ -7,13 +7,13 @@ Hi, I'm Dylan, but I'm also known online as Melmon.
 I am a British fullstack developer based in London.
 
 I have extensive experience in Python (Django/Flask, TensorFlow) and TypeScript (plus React).
-I also have some experience with C++ and Java.
+I also have experience with C++ and Java.
 
 I read Computer Science at the University of Bath.
 I wrote my dissertation on reinforcement learning applications to the game Rogue.
 
-I love rhythm games, traditional roguelikes and SHMUPs.
-I also like reading, gamedev, drawing, faffing around with Linux and clay pigeon shooting.
+I love playing rhythm games, traditional roguelikes and SHMUPs.
+I also like reading, piano and music production, gamedev, drawing, faffing around with Linux and clay pigeon shooting.
 
 I don't use social media, so the best way to contact me is through email.
 ```
@@ -47,8 +47,8 @@ I'm not too terribly active on GitHub, so my "stats" are super lacking and this 
 <span><img src="https://img.shields.io/badge/-Java-navy?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-Haskell-blue?style=flat-square" /></span>
 <br />
-<span><img src="https://img.shields.io/badge/-Find%20me-grey?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Contact%20links-grey?style=flat-square" /></span>
 <a href="https://melmon.dev/"><img src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square" /></a>
-<a href="mailto:dylan.drescher@gmail.com"><img src="https://img.shields.io/badge/-E--mail-green?style=flat-square" /></a>
+<a href="mailto:dylan.drescher_gmail.com"><img src="https://img.shields.io/badge/-E--mail-green?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/dylan-drescher/"><img src="https://img.shields.io/badge/-Linkedin-brightgreen?style=flat-square" /></a>
 <a href="https://git.sr.ht/~melmon/"><img src="https://img.shields.io/badge/-Sourcehut-green?style=flat-square" /></a>

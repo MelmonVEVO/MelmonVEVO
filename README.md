@@ -34,7 +34,7 @@ I'm not too terribly active on GitHub, so my "stats" are super lacking and this 
 
 -->
 <span><img src="https://img.shields.io/badge/-Editors-grey?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-IntelliJ IDEA-orange?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-PyCharm-orange?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-VS%20Code-red?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-Neovim-orange?style=flat-square" /></span>
 <br />

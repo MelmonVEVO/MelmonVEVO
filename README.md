@@ -45,8 +45,8 @@ I'm not too terribly active on GitHub, so my "stats" are super lacking and this 
 <span><img src="https://img.shields.io/badge/-C-blue?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-C++-navy?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-C%23-blue?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-Java-navy?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-Haskell-blue?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Kotlin-navy?style=flat-square" /></span>
+<span><img src="https://img.shields.io/badge/-Rust-blue?style=flat-square" /></span>
 <br />
 <span><img src="https://img.shields.io/badge/-Contact%20links-grey?style=flat-square" /></span>
 <a href="https://melmon.dev/"><img src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square" /></a>

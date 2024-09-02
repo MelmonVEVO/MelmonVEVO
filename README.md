@@ -16,7 +16,7 @@ I love playing rhythm games, traditional roguelikes and SHMUPs.
 I also like reading, piano and music production, gamedev, drawing, faffing around with Linux and clay pigeon shooting.
 
 I use my GitHub account to mirror my repositories found at https://git.sr.ht/~melmon/.
-I don't use social media, so the best way to contact me is through email.
+I don't use social media, so the best way to contact me is through email. You can find my email on my website's contact page.
 ```
 
 <!--
@@ -48,8 +48,8 @@ I'm not too terribly active on GitHub, so my "stats" are super lacking and this 
 <span><img src="https://img.shields.io/badge/-Kotlin-navy?style=flat-square" /></span>
 <span><img src="https://img.shields.io/badge/-Rust-blue?style=flat-square" /></span>
 <br />
-<span><img src="https://img.shields.io/badge/-Contact%20links-grey?style=flat-square" /></span>
-<a href="https://melmon.dev/"><img src="https://img.shields.io/badge/-Website-brightgreen?style=flat-square" /></a>
-<a href="mailto:dylan.drescher_gmail.com"><img src="https://img.shields.io/badge/-E--mail-green?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/dylan-drescher/"><img src="https://img.shields.io/badge/-Linkedin-brightgreen?style=flat-square" /></a>
-<a href="https://git.sr.ht/~melmon/"><img src="https://img.shields.io/badge/-Sourcehut-green?style=flat-square" /></a>
+<p>Places you can find me:
+  <a href="https://melmon.dev/">Website</a>
+  <a href="https://www.linkedin.com/in/dylan-drescher/">LinkedIn</a>
+  <a href="https://git.sr.ht/~melmon/">Sourcehut</a>
+</p>

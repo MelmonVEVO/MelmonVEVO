@@ -1,13 +1,14 @@
 <h1 align="center">- MELMON -</h1>
 
 ```
-[melmon@wherever ~]$ describe melmon
+[melmon@raincandy ~]$ echo melmon.txt
 
 Hi, I'm Dylan, but I'm also known online as Melmon.
-I am a British developer based in London.
+I work as a frontend engineer, but I like to have a crack at anything that catches my fancy.
 
 I have extensive experience in Python (Django/Flask, TensorFlow) and TypeScript (plus React).
-I also have experience with C++ and Kotlin.
+I also have experience with C, C++, and I like to create games with Godot.
+I'm currently learning Go, Zig and Rust.
 
 I read Computer Science at the University of Bath.
 I wrote my dissertation on reinforcement learning applications to the game Rogue.

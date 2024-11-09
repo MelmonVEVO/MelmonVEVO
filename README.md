@@ -20,20 +20,6 @@ I use my GitHub account to mirror my repositories found at https://git.sr.ht/~me
 I don't use social media, so the best way to contact me is through email. You can find my email on my website's contact page.
 ```
 
-<span><img src="https://img.shields.io/badge/-Editors-grey?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-PyCharm-orange?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-VS%20Code-red?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-Neovim-orange?style=flat-square" /></span>
-<br />
-<span><img src="https://img.shields.io/badge/-Languages-grey?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-Typescript-navy?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-C-blue?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-C++-navy?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-C%23-blue?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-Kotlin-navy?style=flat-square" /></span>
-<span><img src="https://img.shields.io/badge/-Rust-blue?style=flat-square" /></span>
-<br />
 <p>Places you can find me:
   <a href="https://melmon.dev/">Website</a>
   <a href="https://www.linkedin.com/in/dylan-drescher/">LinkedIn</a>

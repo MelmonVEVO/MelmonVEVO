@@ -1,5 +1,6 @@
 <h1 align="center">- MELMON -</h1>
 
+![Aharen holding The C Programming Language by K&R](./assets/Aharen_Reina_Holding_C_Programming_Language.png)
 ```
 [melmon@raincandy ~]$ echo melmon.txt
 
@@ -25,3 +26,4 @@ I don't use social media, so the best way to contact me is through email. You ca
   <a href="https://www.linkedin.com/in/dylan-drescher/">LinkedIn</a>
   <a href="https://git.sr.ht/~melmon/">Sourcehut</a>
 </p>
+

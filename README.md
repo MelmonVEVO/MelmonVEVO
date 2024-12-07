@@ -2,7 +2,7 @@
 
 ![Aharen holding The C Programming Language by K&R](./assets/Aharen_Reina_Holding_C_Programming_Language.png)
 ```
-[melmon@raincandy ~]$ echo melmon.txt
+[melmon@raincandy ~]$ cat melmon.txt
 
 Hi, I'm Dylan, but I'm also known online as Melmon.
 I work as a frontend engineer, but I like to have a crack at anything that catches my fancy.

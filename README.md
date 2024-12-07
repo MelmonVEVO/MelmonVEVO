@@ -6,12 +6,12 @@
 Hi, I'm Dylan, but I'm also known online as Melmon.
 I work as a frontend engineer, but I like to have a crack at anything that catches my fancy.
 
-I have extensive experience in Python (Django/Flask, TensorFlow) and TypeScript (plus React).
+I have extensive experience in TypeScript (plus React) and Python (Django/Flask, TensorFlow).
 I also have experience with C, C++, and I like to create games with Godot.
 I'm currently learning Go, Zig and Rust.
 
 I read Computer Science at the University of Bath.
-I wrote my dissertation on reinforcement learning applications to the game Rogue.
+I wrote my dissertation on reinforcement learning applications to the game Rogue using Deep Q-networks.
 
 I love playing rhythm games, traditional roguelikes and SHMUPs.
 I also like reading, piano and music production, gamedev, drawing, faffing around with Linux and clay pigeon shooting.

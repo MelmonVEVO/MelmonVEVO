@@ -15,10 +15,7 @@ I read Computer Science at the University of Bath.
 I wrote my dissertation on reinforcement learning applications to the game Rogue using Deep Q-networks.
 
 I love playing rhythm games, traditional roguelikes and SHMUPs.
-I also like reading, piano and music production, gamedev, drawing, faffing around with Linux and clay pigeon shooting.
-
-I use my GitHub account to mirror my repositories found at https://git.sr.ht/~melmon/.
-I don't use social media, so the best way to contact me is through email. You can find my email on my website's contact page.
+I also like reading, piano, guitar and clay pigeon shooting.
 ```
 
 <p>Places you can find me:

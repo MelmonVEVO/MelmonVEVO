@@ -1,5 +1,3 @@
-<h1 align="center">- MELMON -</h1>
-
 ![Aharen holding The C Programming Language by K&R](./assets/Aharen_Reina_Holding_C_Programming_Language.png)
 ```
 [melmon@raincandy ~]$ cat melmon.txt
